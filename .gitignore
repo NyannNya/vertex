@@ -1,0 +1,5 @@
+.venv/
+.devcontainer/
+.note/
+etc/secrets/google_adc.json
+del__pycache__.py
